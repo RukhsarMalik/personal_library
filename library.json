@@ -1,0 +1,30 @@
+[
+    {
+        "title": "Abe-Hayat",
+        "author": "Umera Ahmed",
+        "year": "2005",
+        "genre": "Fiction",
+        "read": true
+    },
+    {
+        "title": "Jannat kay Patty",
+        "author": "Nimra Ahmed",
+        "year": "2001",
+        "genre": "Fiction",
+        "read": false
+    },
+    {
+        "title": "Ishq-e-Atish",
+        "author": "Sadia Rajpoot",
+        "year": "2015",
+        "genre": "Fiction",
+        "read": true
+    },
+    {
+        "title": "Main Anmol",
+        "author": "Nimra Ahmed",
+        "year": "2020",
+        "genre": "Non-Fiction",
+        "read": false
+    }
+]
